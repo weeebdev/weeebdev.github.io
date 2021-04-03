@@ -1,1 +1,657 @@
-{"data":[{"id":"MDU6SXNzdWU2MDU0Nzg0NDk=","closed":false,"title":"Setting Up Workflow for the project","createdAt":"2020-04-23T12:06:14Z","url":"https://github.com/ashutosh1919/masterPortfolio/issues/2","number":2,"assignees":{"nodes":[{"avatarUrl":"https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4","name":"Ashutosh Hathidara","url":"https://github.com/ashutosh1919"}]},"repository":{"name":"masterPortfolio","url":"https://github.com/ashutosh1919/masterPortfolio","owner":{"login":"ashutosh1919","avatarUrl":"https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4","url":"https://github.com/ashutosh1919"}}},{"id":"MDU6SXNzdWU2MDI0NDg3NTY=","closed":false,"title":"In ModelCheckpoint, filepath is not accepting batch as formatting parameter.","createdAt":"2020-04-18T12:25:56Z","url":"https://github.com/tensorflow/tensorflow/issues/38668","number":38668,"assignees":{"nodes":[{"avatarUrl":"https://avatars2.githubusercontent.com/u/6505863?v=4","name":"Rick Chao","url":"https://github.com/rchao"}]},"repository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU2MDIzODIxNjI=","closed":false,"title":"save_freq is not accepting integer value in AverageModelCheckpoint","createdAt":"2020-04-18T05:19:27Z","url":"https://github.com/tensorflow/addons/issues/1701","number":1701,"assignees":{"nodes":[]},"repository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1OTg4NzQxMDI=","closed":true,"title":"Currently logs param is None for on_train_end() and on_test_end()","createdAt":"2020-04-13T12:56:17Z","url":"https://github.com/tensorflow/tensorflow/issues/38498","number":38498,"assignees":{"nodes":[{"avatarUrl":"https://avatars2.githubusercontent.com/u/51902062?v=4","name":null,"url":"https://github.com/ravikyram"}]},"repository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1OTgyNTg0MTQ=","closed":false,"title":"Need of flexible loss function GeneralLoss which can change behavior based on params","createdAt":"2020-04-11T12:41:54Z","url":"https://github.com/tensorflow/addons/issues/1646","number":1646,"assignees":{"nodes":[]},"repository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1OTU1NjQyODc=","closed":false,"title":"Not able to customize social-cards","createdAt":"2020-04-07T03:29:37Z","url":"https://github.com/apollographql/gatsby-theme-apollo/issues/110","number":110,"assignees":{"nodes":[]},"repository":{"name":"gatsby-theme-apollo","url":"https://github.com/apollographql/gatsby-theme-apollo","owner":{"login":"apollographql","avatarUrl":"https://avatars0.githubusercontent.com/u/17189275?v=4","url":"https://github.com/apollographql"}}},{"id":"MDU6SXNzdWU1OTMyNjQ3NTg=","closed":true,"title":"Adding config to override prettier (if set) in any code editor","createdAt":"2020-04-03T09:59:05Z","url":"https://github.com/saadpasta/developerFolio/issues/77","number":77,"assignees":{"nodes":[{"avatarUrl":"https://avatars0.githubusercontent.com/u/48270786?u=dab5f6dc64923f646b354f47f52af65f44fd9e7e&v=4","name":"Kartik Choudhary","url":"https://github.com/kartik918"}]},"repository":{"name":"developerFolio","url":"https://github.com/saadpasta/developerFolio","owner":{"login":"saadpasta","avatarUrl":"https://avatars2.githubusercontent.com/u/23307811?u=eab46b153eef3f5183930e61898b462447af9219&v=4","url":"https://github.com/saadpasta"}}},{"id":"MDU6SXNzdWU1OTE2NjAzNTE=","closed":false,"title":"Add Animations to Pinned Projects ","createdAt":"2020-04-01T06:24:47Z","url":"https://github.com/ashutosh1919/masterPortfolio/issues/1","number":1,"assignees":{"nodes":[]},"repository":{"name":"masterPortfolio","url":"https://github.com/ashutosh1919/masterPortfolio","owner":{"login":"ashutosh1919","avatarUrl":"https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4","url":"https://github.com/ashutosh1919"}}},{"id":"MDU6SXNzdWU1OTAwMDczMDE=","closed":true,"title":"Improve the TFDS Getting Started Documentation","createdAt":"2020-03-30T05:37:01Z","url":"https://github.com/tensorflow/datasets/issues/1762","number":1762,"assignees":{"nodes":[]},"repository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1ODk1Nzk0NTc=","closed":true,"title":"BrowserRouter and HashRouter works for three Routes only","createdAt":"2020-03-28T13:40:27Z","url":"https://github.com/ReactTraining/react-router/issues/7223","number":7223,"assignees":{"nodes":[]},"repository":{"name":"react-router","url":"https://github.com/ReactTraining/react-router","owner":{"login":"ReactTraining","avatarUrl":"https://avatars1.githubusercontent.com/u/11823761?v=4","url":"https://github.com/ReactTraining"}}},{"id":"MDU6SXNzdWU1ODk1NzY4Nzg=","closed":true,"title":"BrowserRouter and HashRouter works for three Routes only ","createdAt":"2020-03-28T13:24:25Z","url":"https://github.com/facebook/react/issues/18414","number":18414,"assignees":{"nodes":[]},"repository":{"name":"react","url":"https://github.com/facebook/react","owner":{"login":"facebook","avatarUrl":"https://avatars3.githubusercontent.com/u/69631?v=4","url":"https://github.com/facebook"}}},{"id":"MDU6SXNzdWU1ODEwNjk1NjU=","closed":true,"title":"Required mean_absolute_relative_error (MARE) ","createdAt":"2020-03-14T06:39:28Z","url":"https://github.com/scikit-learn/scikit-learn/issues/16688","number":16688,"assignees":{"nodes":[]},"repository":{"name":"scikit-learn","url":"https://github.com/scikit-learn/scikit-learn","owner":{"login":"scikit-learn","avatarUrl":"https://avatars2.githubusercontent.com/u/365630?v=4","url":"https://github.com/scikit-learn"}}},{"id":"MDU6SXNzdWU1ODEwNDc0MDc=","closed":true,"title":"Example given in tf.image.rgb_to_yub is contadicting with the description.","createdAt":"2020-03-14T05:25:45Z","url":"https://github.com/tensorflow/tensorflow/issues/37591","number":37591,"assignees":{"nodes":[{"avatarUrl":"https://avatars2.githubusercontent.com/u/46058173?v=4","name":"Vishnuvardhan Janapati","url":"https://github.com/jvishnuvardhan"}]},"repository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1NzMyNTA1NjQ=","closed":false,"title":"ModuleNotFoundError: No module named 'tensorflow_datasets'","createdAt":"2020-02-29T08:28:06Z","url":"https://github.com/tensorflow/datasets/issues/1544","number":1544,"assignees":{"nodes":[]},"repository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1Njk4OTI2MTE=","closed":true,"title":"There are no documentations related to decode_predictions() and preprocess_input() in any keras.applications","createdAt":"2020-02-24T14:28:33Z","url":"https://github.com/tensorflow/tensorflow/issues/37021","number":37021,"assignees":{"nodes":[{"avatarUrl":"https://avatars2.githubusercontent.com/u/46058173?v=4","name":"Vishnuvardhan Janapati","url":"https://github.com/jvishnuvardhan"}]},"repository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1NTgwODYwMTM=","closed":true,"title":"Need for more flexible Loss Function","createdAt":"2020-01-31T11:50:06Z","url":"https://github.com/tensorflow/tensorflow/issues/36369","number":36369,"assignees":{"nodes":[{"avatarUrl":"https://avatars0.githubusercontent.com/u/13326758?u=af9430e7bc177fa3a1a256dd224b0765bd820bcf&v=4","name":"Pavithra Vijay","url":"https://github.com/pavithrasv"}]},"repository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU0OTQ1NzMwMzc=","closed":true,"title":"I am not able to import Dataset","createdAt":"2019-09-17T11:46:15Z","url":"https://github.com/aerdem4/lofo-importance/issues/26","number":26,"assignees":{"nodes":[]},"repository":{"name":"lofo-importance","url":"https://github.com/aerdem4/lofo-importance","owner":{"login":"aerdem4","avatarUrl":"https://avatars3.githubusercontent.com/u/24624210?u=58887e9c09a3c0576a8ce61ba881132ebf4c137c&v=4","url":"https://github.com/aerdem4"}}},{"id":"MDU6SXNzdWU0ODI4MTcwNjE=","closed":false,"title":"Setup Readme file in proper format","createdAt":"2019-08-20T11:58:49Z","url":"https://github.com/NebutechOpenSource/MLGen/issues/1","number":1,"assignees":{"nodes":[]},"repository":{"name":"MLGen","url":"https://github.com/NebutechOpenSource/MLGen","owner":{"login":"NebutechOpenSource","avatarUrl":"https://avatars3.githubusercontent.com/u/53137955?u=2abe60da5dfbd4b442e415e6c553f58a21cf9547&v=4","url":"https://github.com/NebutechOpenSource"}}}],"open":8,"closed":10,"totalCount":18}
+{
+  "closed": 24,
+  "data": [
+    {
+      "id": "MDU6SXNzdWU4NDgzOTc2NzA=",
+      "closed": false,
+      "title": "White background on Dark Github",
+      "createdAt": "2021-04-01T11:54:41Z",
+      "url": "https://github.com/philc/vimium/issues/3797",
+      "number": 3797,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "vimium",
+        "url": "https://github.com/philc/vimium",
+        "owner": {
+          "login": "philc",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/8598?v=4",
+          "url": "https://github.com/philc"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4NDMxNjY1NDI=",
+      "closed": false,
+      "title": "GWSL freezes when I try to launch app from Linux Apps",
+      "createdAt": "2021-03-29T09:20:11Z",
+      "url": "https://github.com/Opticos/GWSL-Source/issues/54",
+      "number": 54,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "GWSL-Source",
+        "url": "https://github.com/Opticos/GWSL-Source",
+        "owner": {
+          "login": "Opticos",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/56320969?v=4",
+          "url": "https://github.com/Opticos"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4NDIzMDg2Njc=",
+      "closed": false,
+      "title": "How do I get access to private repos (Gitlab) ",
+      "createdAt": "2021-03-26T21:30:32Z",
+      "url": "https://github.com/git-touch/git-touch/issues/225",
+      "number": 225,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "git-touch",
+        "url": "https://github.com/git-touch/git-touch",
+        "owner": {
+          "login": "git-touch",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/51027039?v=4",
+          "url": "https://github.com/git-touch"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4Mzc3MzE0NjU=",
+      "closed": true,
+      "title": "How do I write custom rule to ignore certain languages/projects?",
+      "createdAt": "2021-03-22T13:44:09Z",
+      "url": "https://github.com/wakatime/wakatime/issues/256",
+      "number": 256,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "wakatime",
+        "url": "https://github.com/wakatime/wakatime",
+        "owner": {
+          "login": "wakatime",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/4814844?v=4",
+          "url": "https://github.com/wakatime"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4Mzc2ODkxNDg=",
+      "closed": false,
+      "title": "Add||weeebdev",
+      "createdAt": "2021-03-22T12:55:09Z",
+      "url": "https://github.com/anmol098/waka-readme-stats/issues/185",
+      "number": 185,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/15426564?u=d8328dd0939070360893b3a955f50eb8fd8ac144&v=4",
+            "name": "Anmol Pratap Singh",
+            "url": "https://github.com/anmol098"
+          }
+        ]
+      },
+      "repository": {
+        "name": "waka-readme-stats",
+        "url": "https://github.com/anmol098/waka-readme-stats",
+        "owner": {
+          "login": "anmol098",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/15426564?u=d8328dd0939070360893b3a955f50eb8fd8ac144&v=4",
+          "url": "https://github.com/anmol098"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4MzY3NzU0NzE=",
+      "closed": false,
+      "title": "How to get data from useSelector",
+      "createdAt": "2021-03-20T10:32:59Z",
+      "url": "https://github.com/Upstatement/react-router-guards/issues/60",
+      "number": 60,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "react-router-guards",
+        "url": "https://github.com/Upstatement/react-router-guards",
+        "owner": {
+          "login": "Upstatement",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/599002?v=4",
+          "url": "https://github.com/Upstatement"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4MzQ0NjE2NzA=",
+      "closed": true,
+      "title": "Prompt pastes weird things when use Copy-Paste (Ctrl+V)",
+      "createdAt": "2021-03-18T07:01:16Z",
+      "url": "https://github.com/starship/starship/issues/2468",
+      "number": 2468,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "starship",
+        "url": "https://github.com/starship/starship",
+        "owner": {
+          "login": "starship",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/49654870?v=4",
+          "url": "https://github.com/starship"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4MzI4NDA0Nzc=",
+      "closed": false,
+      "title": "Rewrite template to typescript",
+      "createdAt": "2021-03-16T14:10:36Z",
+      "url": "https://github.com/Masters-and-Abu/hr-ecosystem-frontend/issues/3",
+      "number": 3,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/49468087?v=4",
+            "name": "Timur Demenov",
+            "url": "https://github.com/timmydream"
+          }
+        ]
+      },
+      "repository": {
+        "name": "hr-ecosystem-frontend",
+        "url": "https://github.com/Masters-and-Abu/hr-ecosystem-frontend",
+        "owner": {
+          "login": "Masters-and-Abu",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/77982952?v=4",
+          "url": "https://github.com/Masters-and-Abu"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4Mjg4OTY4ODI=",
+      "closed": true,
+      "title": "Initialize Python project",
+      "createdAt": "2021-03-11T07:58:47Z",
+      "url": "https://github.com/Masters-and-Abu/hr-ecosystem-ml/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/45146992?u=8a082732fb3fd725260217774fcacb199cea7043&v=4",
+            "name": "Madiyar Mukushev",
+            "url": "https://github.com/truebeliever17"
+          }
+        ]
+      },
+      "repository": {
+        "name": "hr-ecosystem-ml",
+        "url": "https://github.com/Masters-and-Abu/hr-ecosystem-ml",
+        "owner": {
+          "login": "Masters-and-Abu",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/77982952?v=4",
+          "url": "https://github.com/Masters-and-Abu"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4Mjg4OTY2MzE=",
+      "closed": true,
+      "title": "Initialize React project",
+      "createdAt": "2021-03-11T07:58:33Z",
+      "url": "https://github.com/Masters-and-Abu/hr-ecosystem-frontend/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "hr-ecosystem-frontend",
+        "url": "https://github.com/Masters-and-Abu/hr-ecosystem-frontend",
+        "owner": {
+          "login": "Masters-and-Abu",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/77982952?v=4",
+          "url": "https://github.com/Masters-and-Abu"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4Mjg4OTYzODY=",
+      "closed": true,
+      "title": "Initialize Go project",
+      "createdAt": "2021-03-11T07:58:19Z",
+      "url": "https://github.com/Masters-and-Abu/hr-ecosystem-backend/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "hr-ecosystem-backend",
+        "url": "https://github.com/Masters-and-Abu/hr-ecosystem-backend",
+        "owner": {
+          "login": "Masters-and-Abu",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/77982952?v=4",
+          "url": "https://github.com/Masters-and-Abu"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4MTQ2Mjc1MTE=",
+      "closed": true,
+      "title": "Dracula theme for Unigram",
+      "createdAt": "2021-02-23T16:32:29Z",
+      "url": "https://github.com/dracula/dracula-theme/issues/523",
+      "number": 523,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "dracula-theme",
+        "url": "https://github.com/dracula/dracula-theme",
+        "owner": {
+          "login": "dracula",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/19436447?v=4",
+          "url": "https://github.com/dracula"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4MTMyMTAzNTM=",
+      "closed": true,
+      "title": "How to install themes from Telegram Desktop",
+      "createdAt": "2021-02-22T07:18:13Z",
+      "url": "https://github.com/UnigramDev/Unigram/issues/2253",
+      "number": 2253,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Unigram",
+        "url": "https://github.com/UnigramDev/Unigram",
+        "owner": {
+          "login": "UnigramDev",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/22216198?v=4",
+          "url": "https://github.com/UnigramDev"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU4MTAzODMwMTE=",
+      "closed": true,
+      "title": " Push rejected, failed to compile Go app.",
+      "createdAt": "2021-02-17T17:22:49Z",
+      "url": "https://github.com/heroku/heroku-buildpack-go/issues/453",
+      "number": 453,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "heroku-buildpack-go",
+        "url": "https://github.com/heroku/heroku-buildpack-go",
+        "owner": {
+          "login": "heroku",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/23211?v=4",
+          "url": "https://github.com/heroku"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3Nzg2NjkwNDk=",
+      "closed": true,
+      "title": "A Javascript error occurred in the main process",
+      "createdAt": "2021-01-05T07:28:20Z",
+      "url": "https://github.com/vercel/hyper/issues/5209",
+      "number": 5209,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "hyper",
+        "url": "https://github.com/vercel/hyper",
+        "owner": {
+          "login": "vercel",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/14985020?v=4",
+          "url": "https://github.com/vercel"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3NDQ4NzkzMTI=",
+      "closed": false,
+      "title": "How to create default request body with form data/multiform in Insomnia Designer?",
+      "createdAt": "2020-11-17T16:15:22Z",
+      "url": "https://github.com/Kong/insomnia/issues/2845",
+      "number": 2845,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "insomnia",
+        "url": "https://github.com/Kong/insomnia",
+        "owner": {
+          "login": "Kong",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/962416?v=4",
+          "url": "https://github.com/Kong"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MzUwMjAyNDA=",
+      "closed": true,
+      "title": "Sync with google drive",
+      "createdAt": "2020-11-03T05:06:13Z",
+      "url": "https://github.com/jgraph/drawio-desktop/issues/418",
+      "number": 418,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "drawio-desktop",
+        "url": "https://github.com/jgraph/drawio-desktop",
+        "owner": {
+          "login": "jgraph",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1769238?v=4",
+          "url": "https://github.com/jgraph"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MjQzNTIxMjI=",
+      "closed": true,
+      "title": "Can't install aptitude",
+      "createdAt": "2020-10-19T07:26:14Z",
+      "url": "https://github.com/microsoft/WSL/issues/6118",
+      "number": 6118,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "WSL",
+        "url": "https://github.com/microsoft/WSL",
+        "owner": {
+          "login": "microsoft",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
+          "url": "https://github.com/microsoft"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MjE5NjgyNzA=",
+      "closed": true,
+      "title": "How to make travis build android app",
+      "createdAt": "2020-10-15T04:44:20Z",
+      "url": "https://github.com/travis-ci/travis.rb/issues/772",
+      "number": 772,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "travis.rb",
+        "url": "https://github.com/travis-ci/travis.rb",
+        "owner": {
+          "login": "travis-ci",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/639823?v=4",
+          "url": "https://github.com/travis-ci"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MTA3NTUzNDk=",
+      "closed": true,
+      "title": "BUG: It doesn't make commits",
+      "createdAt": "2020-09-29T04:40:04Z",
+      "url": "https://github.com/anmol098/waka-readme-stats/issues/107",
+      "number": 107,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/15426564?u=d8328dd0939070360893b3a955f50eb8fd8ac144&v=4",
+            "name": "Anmol Pratap Singh",
+            "url": "https://github.com/anmol098"
+          }
+        ]
+      },
+      "repository": {
+        "name": "waka-readme-stats",
+        "url": "https://github.com/anmol098/waka-readme-stats",
+        "owner": {
+          "login": "anmol098",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/15426564?u=d8328dd0939070360893b3a955f50eb8fd8ac144&v=4",
+          "url": "https://github.com/anmol098"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MDE4MzUxOTk=",
+      "closed": true,
+      "title": "How to reset the date in WSL",
+      "createdAt": "2020-09-15T11:05:46Z",
+      "url": "https://github.com/microsoft/WSL/issues/5925",
+      "number": 5925,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "WSL",
+        "url": "https://github.com/microsoft/WSL",
+        "owner": {
+          "login": "microsoft",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
+          "url": "https://github.com/microsoft"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2ODcyMjcyNzA=",
+      "closed": true,
+      "title": "How to turn off README image caching",
+      "createdAt": "2020-08-27T13:05:22Z",
+      "url": "https://github.com/github/markup/issues/1380",
+      "number": 1380,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "markup",
+        "url": "https://github.com/github/markup",
+        "owner": {
+          "login": "github",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/9919?v=4",
+          "url": "https://github.com/github"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2NjY0MTMwMDM=",
+      "closed": true,
+      "title": "How to setup that beautiful Vercel triangle on the prompt?",
+      "createdAt": "2020-07-27T16:11:00Z",
+      "url": "https://github.com/vercel/hyper/issues/4756",
+      "number": 4756,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "hyper",
+        "url": "https://github.com/vercel/hyper",
+        "owner": {
+          "login": "vercel",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/14985020?v=4",
+          "url": "https://github.com/vercel"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2NjYxNjI4ODQ=",
+      "closed": true,
+      "title": "gh repo create kicks me out of my gh account",
+      "createdAt": "2020-07-27T10:07:05Z",
+      "url": "https://github.com/cli/cli/issues/1431",
+      "number": 1431,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "cli",
+        "url": "https://github.com/cli/cli",
+        "owner": {
+          "login": "cli",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/59704711?v=4",
+          "url": "https://github.com/cli"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2NjM5MDAzNTk=",
+      "closed": true,
+      "title": "Useless issue",
+      "createdAt": "2020-07-22T16:40:35Z",
+      "url": "https://github.com/urfave/cli/issues/1164",
+      "number": 1164,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "cli",
+        "url": "https://github.com/urfave/cli",
+        "owner": {
+          "login": "urfave",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/19274464?v=4",
+          "url": "https://github.com/urfave"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2NTUyMjQwMTI=",
+      "closed": true,
+      "title": "Custom background image doesn't work",
+      "createdAt": "2020-07-11T15:02:40Z",
+      "url": "https://github.com/StylishThemes/GitHub-Dark/issues/1176",
+      "number": 1176,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "GitHub-Dark",
+        "url": "https://github.com/StylishThemes/GitHub-Dark",
+        "owner": {
+          "login": "StylishThemes",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/6145677?v=4",
+          "url": "https://github.com/StylishThemes"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2NTM0MTQwNTc=",
+      "closed": true,
+      "title": "How often does the gist update?",
+      "createdAt": "2020-07-08T15:59:20Z",
+      "url": "https://github.com/matchai/waka-box/issues/49",
+      "number": 49,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "waka-box",
+        "url": "https://github.com/matchai/waka-box",
+        "owner": {
+          "login": "matchai",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/4658208?u=887d888c45d991a2dbde8ca6f317bf22bc133468&v=4",
+          "url": "https://github.com/matchai"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2NDkwNjk3MTQ=",
+      "closed": true,
+      "title": "Stuck on Initialization",
+      "createdAt": "2020-07-01T15:23:17Z",
+      "url": "https://github.com/wakatime/wakatime/issues/217",
+      "number": 217,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/782854?u=08f8f3810c070b4f51c5ab34d349b83bee796fe7&v=4",
+            "name": "Carlos Henrique Guardão Gandarez",
+            "url": "https://github.com/gandarez"
+          }
+        ]
+      },
+      "repository": {
+        "name": "wakatime",
+        "url": "https://github.com/wakatime/wakatime",
+        "owner": {
+          "login": "wakatime",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/4814844?v=4",
+          "url": "https://github.com/wakatime"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2NDY4OTYwODk=",
+      "closed": true,
+      "title": "After deleting fish_prompt.fish settings fish started lagging",
+      "createdAt": "2020-06-28T11:10:46Z",
+      "url": "https://github.com/fish-shell/fish-shell/issues/7160",
+      "number": 7160,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "fish-shell",
+        "url": "https://github.com/fish-shell/fish-shell",
+        "owner": {
+          "login": "fish-shell",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1828073?v=4",
+          "url": "https://github.com/fish-shell"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2Mjg5MzUyNDg=",
+      "closed": true,
+      "title": "Add shortcut like \"Shift+Alt+T\" in Ubuntu to open a Windows Terminal",
+      "createdAt": "2020-06-02T06:26:34Z",
+      "url": "https://github.com/microsoft/terminal/issues/6301",
+      "number": 6301,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "terminal",
+        "url": "https://github.com/microsoft/terminal",
+        "owner": {
+          "login": "microsoft",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
+          "url": "https://github.com/microsoft"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1MDMyODAyNTg=",
+      "closed": true,
+      "title": "Generate User Theme doesn't work",
+      "createdAt": "2019-10-07T07:35:04Z",
+      "url": "https://github.com/randy3k/Terminus/issues/156",
+      "number": 156,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Terminus",
+        "url": "https://github.com/randy3k/Terminus",
+        "owner": {
+          "login": "randy3k",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1690993?v=4",
+          "url": "https://github.com/randy3k"
+        }
+      }
+    }
+  ],
+  "open": 7,
+  "totalCount": 31
+}
