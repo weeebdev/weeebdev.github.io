@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f91838fa9bc7238dac06b28283e57819",
+    "revision": "dbad01ab724b6540456f349131faa5d9",
     "url": "/index.html"
   },
   {
-    "revision": "910fc45d3277e8f28c51",
-    "url": "/static/css/main.c7ec043a.chunk.css"
+    "revision": "8e2b8de209738dc41692",
+    "url": "/static/css/main.b0dc9c72.chunk.css"
   },
   {
-    "revision": "8c2b78477798dceb737f",
-    "url": "/static/js/2.e7bfa233.chunk.js"
+    "revision": "36964718775b406a948a",
+    "url": "/static/js/2.18a16926.chunk.js"
   },
   {
-    "revision": "910fc45d3277e8f28c51",
-    "url": "/static/js/main.11e767a2.chunk.js"
+    "revision": "8e2b8de209738dc41692",
+    "url": "/static/js/main.923c4d22.chunk.js"
   },
   {
     "revision": "6138eaf4a6c67cbf898e",
@@ -64,6 +64,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/animated_logo.52e0714e.svg"
   },
   {
+    "revision": "dc4046fab766a8bf6e67ddbeab3ad275",
+    "url": "/static/media/beeline-logo.dc4046fa.jpg"
+  },
+  {
     "revision": "b6b12c7d07e0569e771c8aedf81a7767",
     "url": "/static/media/blogs_image.b6b12c7d.svg"
   },
@@ -78,6 +82,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d6d4086fb1cade58b3f786620e17c3ef",
     "url": "/static/media/contactMail.d6d4086f.png"
+  },
+  {
+    "revision": "a7d3f993485d2d714acbec176cc7c2dc",
+    "url": "/static/media/dar-logo.a7d3f993.png"
   },
   {
     "revision": "434d2b012c3efc3da1ef90549a50f46b",
@@ -200,6 +208,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/intel_logo.29152cf7.jpg"
   },
   {
+    "revision": "fb99ddea5a26b331d2f32e040bccab6c",
+    "url": "/static/media/itsupport-logo.fb99ddea.png"
+  },
+  {
     "revision": "b05ae5b575a7e1125610944dc152c35f",
     "url": "/static/media/jsFramework.b05ae5b5.svg"
   },
@@ -220,6 +232,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/nptel_logo.cd7077f7.png"
   },
   {
+    "revision": "ea27207aa742e21c4a18879ef9f47aae",
+    "url": "/static/media/one-logo.ea27207a.png"
+  },
+  {
     "revision": "6e7dc5ad476dd2d57600bca9521f3a5d",
     "url": "/static/media/portfolio.6e7dc5ad.gif"
   },
@@ -236,6 +252,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/pwa.bd5f4148.png"
   },
   {
+    "revision": "95e9c2a2508c3144dee61a77d5a8cdec",
+    "url": "/static/media/sdu_logo.95e9c2a2.png"
+  },
+  {
     "revision": "da0e7c80b90df28dd3a590c80f3d4970",
     "url": "/static/media/stanford_logo.da0e7c80.png"
   },
@@ -250,5 +270,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "67a6a11c47edafb87cf24da66afe3dca",
     "url": "/static/media/ui_ux_design.67a6a11c.svg"
+  },
+  {
+    "revision": "8227d647862e05bd21f94ab73b81ec0c",
+    "url": "/static/media/weeebdev_profile.8227d647.png"
   }
 ]);
