@@ -493,6 +493,11 @@ const contactPageData = {
   // },
 };
 
+const openSource = {
+  githubConvertedToken: process.env.GITHUB_TOKEN,
+  githubUserName: "weeebdev",
+};
+
 export {
   settings,
   seo,
@@ -505,4 +510,5 @@ export {
   experience,
   projectsHeader,
   contactPageData,
+  openSource,
 };
